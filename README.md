@@ -9,7 +9,7 @@ Presently:
 - 🔨 working on a webdev project
 - 🔍 exploring the world of cybersecurity
 
-<div id="badges" align="center">
+<div id="badge">
   <a href="https://www.linkedin.com/in/aishatifsharif/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
