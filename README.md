@@ -10,3 +10,13 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=FiendOfAshes&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+
+## woman_technologist: About Me :
+👋 I'm a student doing my very best to learn all that I can about the world 
+Presently:
+- 📚 learning Java
+- 🔨 working on a webdev project
+- 🔍 exploring the cybersecurity 
