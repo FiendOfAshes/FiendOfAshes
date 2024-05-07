@@ -12,5 +12,5 @@
 </div>
 
 <div id="giphycode" align="center">
-  <img src="https://drive.google.com/file/d/1TWCX3UyjiEduhiu1q6UEOUqTX1CcS07X/view?usp=sharing" width="100" height="100"/>
+  <img src="https://photos.app.goo.gl/gyWwHWoCkhds73Gn7" width="100" height="100"/>
 </div>
