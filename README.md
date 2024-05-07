@@ -15,9 +15,9 @@
 
 
 ### :woman_technologist: About Me :
-👋 I'm a student doing my very best to learn all that I can about the world 
+👋 I'm a CS student doing my very best to learn all that I can
 
 Presently:
 - 📚 learning Java
 - 🔨 working on a webdev project
-- 🔍 exploring the cybersecurity 
+- 🔍 exploring the world of cybersecurity 
