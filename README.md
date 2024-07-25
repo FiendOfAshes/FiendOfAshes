@@ -5,9 +5,8 @@
 👋 I'm a CS student doing my very best to learn all that I can
 
 Presently:
-- 📚 learning Java
-- 🔨 working on a webdev project
-- 🔍 exploring the world of cybersecurity
+- 📚 studying linear algebra, single variable calculus and statistics
+- 🔨 working on data analysis project
 
 <div id="badge">
   <a href="https://www.linkedin.com/in/aishatifsharif/">
