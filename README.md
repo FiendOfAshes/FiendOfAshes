@@ -6,7 +6,7 @@
 
 Presently:
 - 📚 studying linear algebra, single variable calculus and statistics
-- 🔨 working on data analysis project
+- 🔨 working on a data analysis project
 
 <div id="badge">
   <a href="https://www.linkedin.com/in/aishatifsharif/">
