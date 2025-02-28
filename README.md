@@ -6,7 +6,8 @@
 
 Presently:
 - 📚 studying calculus, discrete math, discrete structures and probability theory
-- 🔨 working on a data analysis projects
+- Studying embedded systems, C and C++
+- Also, studying physics and electronics
 
 <div id="badge">
   <a href="https://www.linkedin.com/in/aishatifsharif/">
