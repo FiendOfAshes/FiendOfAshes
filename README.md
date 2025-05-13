@@ -2,12 +2,10 @@
 
 ---
 ### :woman_technologist: About Me :
-👋 I'm a second-year CS student doing my very best to learn all that I can
+👋 I'm a third-year CS student interested in data analysis and data science.
 
 Presently:
-- 📚 studying calculus, discrete math, discrete structures and probability theory
-- Studying embedded systems, C and C++
-- Also, studying physics and electronics
+- Working on my data analysis portfolio (🤞should out soon!)
 
 <div id="badge">
   <a href="https://www.linkedin.com/in/aishatifsharif/">
