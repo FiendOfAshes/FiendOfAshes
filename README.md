@@ -5,7 +5,7 @@
 👋 I'm a third-year CS student interested in data analysis and data science.
 
 Presently:
-- Working on my data analysis portfolio (🤞should out soon!)
+- Working on my data analysis portfolio (🤞should be out soon!)
 
 <div id="badge">
   <a href="https://www.linkedin.com/in/aishatifsharif/">
